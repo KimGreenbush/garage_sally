@@ -44,12 +44,12 @@ Open the prototype branch in your IDE of choice.
 ## Contributors
 
 Luis Cardona :  
--Lead Front-End Developer
-	-UI Mockup Design
-	-Framework
-	-Mobile First Approach 
-	-Responsive Layout
-	-State Object Rendering
+- Lead Front-End Developer
+	- UI Mockup Design
+	- Framework
+	- Mobile First Approach 
+	- Responsive Layout
+	- State Object Rendering
 
 Kristen : 
 - Front-end API calls to the server using Axios
