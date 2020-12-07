@@ -52,14 +52,16 @@ Luis Cardona :
 	-State Object Rendering
 
 Kristen : 
-Front-end API calls to the server using Axios
-Connected backend login controller with front-end form, including data validation and password hashing
-Added to the user controller the ability to hash passwords
+- Front-end API calls to the server using Axios
+- Connected backend login controller with front-end form, including data validation and password hashing
+- Added to the user controller the ability to hash passwords
+
 Kim: 
-Implemented RESTful backend APIs to make calls to the database 
-Configured the server to link the front-end to the back-end
-Created and maintained back-end models for mapping to the database
-Incorporated a file/image upload feature using a front-end converter to map files to back-end models
+- Back End Engineer
+	- Implemented RESTful backend APIs to make calls to the database 
+	- Configured the server to link the front-end to the back-end
+	- Created and maintained back-end models for mapping to the database
+	- Incorporated a file/image upload feature using a front-end converter to map files to back-end models
 
 ## Support
 
