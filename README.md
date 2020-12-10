@@ -68,7 +68,7 @@ Kim:
 If you have any questions or comments about this project email one of its main contributors:
 [Luis Cardona](mailto:cardona-luis@outlook.com)
 [Kristen San Martin](mailto:kmoreland909@gmail.com)
-[Kim Greenbush](mailto:kim_greenbush@icloud.com
+[Kim Greenbush](mailto:kim_greenbush@icloud.com)
 
 
 
